@@ -1,0 +1,17 @@
+.images{
+	text-align: center;
+	margin: auto;
+	margin: 100px;
+	
+}
+.image-box{
+	display: inline-block;
+	
+}
+.images p{
+text-align: center;		
+}
+.images .image-box img{
+	width: 300px;
+	height: 300px;
+}
